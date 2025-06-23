@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Software+Engineer;Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-## 🚀 Về tôi
+## 🚀 About me
 
 ```javascript
 const developer = {
